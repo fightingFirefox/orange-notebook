@@ -55,7 +55,7 @@
 Get-FileHash .\OrangeNotebook-1.2.1.0-portable.exe
 ```
 
-| 需要 | |
+| 项目 | 要求 |
 |---|---|
 | 系统 | Windows 11 64 位（Windows 10 没有测过） |
 | Claude Code | 会话、许可、发给她这些功能要本机装了 Claude Code；只用手记、音乐、剪贴板则不需要 |
